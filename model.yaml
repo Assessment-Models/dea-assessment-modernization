@@ -10,7 +10,7 @@ description: >-
   EA assessment instrument for the modernization domain: legacy migration,
   strangler-fig adoption, decomposition strategy. Scores against the
   dea:maturity-modernization model.
-version: 1.0.0-alpha
+version: 1.1.0-alpha
 conformance:
   contract:
     id: opendea-assessment-metamodel
