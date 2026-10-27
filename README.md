@@ -17,7 +17,7 @@ This repository contains one assessment instrument for the **modernization** dom
 | **Facilitator required** | Yes |
 | **Maturity target** | `dea:maturity-modernization` |
 | **Owner** | Modernisation Lead |
-| **Version** | 1.0.0-alpha |
+| **Version** | 1.1.0-alpha |
 
 ---
 
